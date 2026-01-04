@@ -58,8 +58,6 @@ A computational tool designed to solve discrete math problems.
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadbinijaz17&show_icons=true&theme=radical" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadbinijaz17&layout=compact&theme=radical" height="180" alt="languages graph" />
