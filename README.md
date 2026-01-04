@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Muhammad%20Bin%20Ijaz&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20&descAlignY=55&descAlign=50" alt="Muhammad Bin Ijaz Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Muhammad%20Bin%20Ijaz&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20&descAlignY=55&descAlign=50" alt="Muhammad Bin Ijaz Header"/>
 
 ### A Software Engineering student passionate about Web Development 🚀
 
@@ -55,6 +55,8 @@ A computational tool designed to solve discrete math problems.
 - **Tech Used:** C++, Boolean Logic, Data Structures.
 
 ---
+
+### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
 
