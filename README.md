@@ -13,7 +13,7 @@
   <a href="www.linkedin.com/in/muhammadbinijazb2a53a37b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_X_URL_HERE" target="_blank">
+  <a href="@ijaz_bin30433" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" />
   </a>
 </p>
